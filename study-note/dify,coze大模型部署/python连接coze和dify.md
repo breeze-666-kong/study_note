@@ -47,4 +47,4 @@ for line in response.iter_lines():
         print(line.decode("utf-8"))
 ```
 
-![image-20260514103954723](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20260514103954723.png)输入在input中
+![image-20260514103954723](./assets/image-20260514103954723.png)输入在input中
